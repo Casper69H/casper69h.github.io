@@ -5,9 +5,13 @@ tags: [about, education, study, personality]
 date: 2020-08-21
 comments: false
 ---
-    
-鄙人普利茅斯大学和南京艺术大学双学位本科毕业，目前就读于伦敦艺术大学，人工智能与数据科学专业。我平时接触的技术/软件： 视频制作 绘画 P图logo制作（PS/PR/AI）、数据分析（Python）、AI绘画领域（stable diffusion/midjourney）、建模 渲染 游戏设计（Unreal Engine4/ Blender/ Maya）
-I am a dual degree undergraduate from Plymouth University and Nanjing University of the Arts, currently studying at the University of the Arts London, majoring in Artificial Intelligence and Data Science. My usual exposure to technology/software: Video production Painting P-graphic logo production (PS/PR/AI), data analysis (Python), AI painting field (stable diffusion/midjourney), modelling Rendering Game design (Unreal Engine4/ Blender/ Maya)
+## Academic qualifications   
+我毕业于普利茅斯大学和南京艺术大学的双学位本科课程，并现在就读于伦敦艺术大学的人工智能与数据科学硕士专业。
+
+
+## Software Capabilities
+我技术领域的实践经验涵盖多个方向：从视频制作、绘画、到照片编辑和logo设计（我熟练使用Photoshop，Premiere和Illustrator）；从数据分析（我利用Python来进行数据处理和分析）到人工智能绘画领域的应用（如Stable Diffusion和Midjourney）；再到建模、渲染和游戏设计（我精通Unreal Engine 4、Blender和Maya）。我以我的技术能力和艺术背景，致力于探索跨学科的可能性。
+
 
 
 
