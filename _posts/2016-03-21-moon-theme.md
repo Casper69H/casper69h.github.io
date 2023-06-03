@@ -2,17 +2,17 @@
 layout: post
 title:  "My 2021 portfolio"
 date:   2021-8-1
-excerpt: "This includes an innovative design, a UX/UI design, a Speculative design", and a user experience design."
+excerpt: 'This includes an innovative design, a UX/UI design, a Speculative design, and a user experience design.'
 project: true
 tag:
 - portfolio
 - UX/UI
-- innovative d
+- innovative 
 - Speculative 
 - user experience
 comments: true
 ---
-
+[查看我的作品集](/assets/1_Portfolio origin 19.3mb.pdf)
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
