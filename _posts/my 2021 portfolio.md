@@ -12,7 +12,7 @@ tag:
 - user experience
 comments: true
 ---
-！[查看我的作品集](/assets/1_Portfolio_origin_19.3mb.pdf)
+[查看我的作品集](/assets/portfolio.pdf)
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
