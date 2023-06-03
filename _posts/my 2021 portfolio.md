@@ -14,7 +14,8 @@ comments: true
 ---
 
 ## 2021 PORTFOLIO 
-
+这是我申请英国研究生使用的作品集，我通过这个作品集收到了伦敦艺术大学、金史密斯大学、拉夫堡大学的offer。
+（This is the portfolio I used for my postgraduate application to the UK and I received offers from University of the Arts London, Goldsmiths University and Loughborough University through this portfolio.）
 
 
 * Critical Design    --     SPECTACLE
@@ -23,7 +24,7 @@ comments: true
 * Application Design --     CROTG
 
 * Note: This work was done by me alone
-*
+
 
 <object data="/assets/portfolio.pdf" type="application/pdf" width="100%" height="800px">
     <embed src="/assets/portfolio.pdf">
