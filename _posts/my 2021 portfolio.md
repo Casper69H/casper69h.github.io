@@ -16,11 +16,14 @@ comments: true
 ## 2021 PORTFOLIO 
 
 
-* Critical Design -- SPECTACLE
-* Product Design -- EVOLUTION
-* Service Design -- SECRET BOX
-* Application Design -- CROTG
+
+* Critical Design    --     SPECTACLE
+* Product Design     --     EVOLUTION
+* Service Design     --     SECRET BOX
+* Application Design --     CROTG
+
 * Note: This work was done by me alone
+*
 
 <object data="/assets/portfolio.pdf" type="application/pdf" width="100%" height="800px">
     <embed src="/assets/portfolio.pdf">
